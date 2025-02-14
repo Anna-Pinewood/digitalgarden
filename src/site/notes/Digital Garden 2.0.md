@@ -2,5 +2,5 @@
 {"dg-publish":true,"permalink":"/digital-garden-2-0/","tags":["gardenEntry"]}
 ---
 
-
-My homepage.
+Welcome to my Digital Garden!
+[[Self Management/Product - Startups - Business/Наши идеи стартапов\|Наши идеи стартапов]]
